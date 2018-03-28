@@ -1,4 +1,4 @@
-package com.nexusy.java.design_pattern.singleton;
+package com.nexusy.java.singleton;
 
 public class Singleton5 {
     private static class SingletonHolder {  

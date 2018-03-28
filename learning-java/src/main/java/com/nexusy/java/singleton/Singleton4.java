@@ -1,4 +1,4 @@
-package com.nexusy.java.design_pattern.singleton;
+package com.nexusy.java.singleton;
 
 public class Singleton4 {
     private volatile static Singleton4 singleton;

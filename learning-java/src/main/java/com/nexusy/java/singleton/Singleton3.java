@@ -1,4 +1,4 @@
-package com.nexusy.java.design_pattern.singleton;
+package com.nexusy.java.singleton;
 
 public class Singleton3 {
     private static Singleton3 instance = new Singleton3();

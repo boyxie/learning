@@ -1,4 +1,4 @@
-package com.nexusy.java.single_threaded_execution;
+package com.nexusy.java.concurrency;
 
 public class UserThread extends Thread{
     private final Gate gate;

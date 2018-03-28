@@ -1,4 +1,4 @@
-package com.nexusy.java.single_threaded_execution;
+package com.nexusy.java.concurrency;
 
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
